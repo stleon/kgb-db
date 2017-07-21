@@ -110,3 +110,13 @@ yura push
 На основе **kgb-db** написана социальная сеть **Пионерская Зорька**.
 
 **Pioner.js**, разработанный сообществом, позволяет на порядок увеличить кол-во доносов, которое может выдержать **kgb-db**, включен в официальную поставку.
+
+## Основано на идеях
+
+- [@dkotenok](https://github.com/dkotenok)
+- [@embali](https://github.com/embali)
+- [@lgyanf](https://github.com/lgyanf)
+- [@stleon](https://github.com/stleon)
+- [@zaabjuda](https://github.com/zaabjuda)
+
+Текст написал и составил [@stleon](https://github.com/stleon)
